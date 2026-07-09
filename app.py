@@ -7,7 +7,7 @@ from sklearn.preprocessing import MinMaxScaler
 
 st.set_page_config(page_title="Iris K-Means Clustering", layout="wide")
 
-st.title("🌸 Iris Flower Clustering using K-Means")
+st.title("🌼 Iris Flower Clustering using K-Means")
 st.write(
     "This app uses the Iris dataset and performs K-Means clustering "
     "using Petal Length and Petal Width features."
